@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,BABESTATION 21
-http://46.105.116.159:1935/cellcast/encoder21/BratuMarian.m3u8
-#EXTINF:-1,BABESTATION 33
-http://46.105.116.159:1935/cellcast/encoder33/BratuMarian.m3u8
-#EXTINF:-1,BABESTATION 41
-http://46.105.116.159:1935/cellcast/encoder41/BratuMarian.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448260090&myTokenPrefixhash=584zTWsjywYLSdAk1NWw7wrP1OnOMoEk-iOzhMZzccQ=
@@ -71,7 +65,7 @@ http://bit.ly/astro-PRIMA
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448260189&myTokenPrefixhash=R9L-fV9cCk-oBqXn06VntgT0o6f2IHf5xClnRz_Jz6w=
 
 #EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
-http://50.7.96.210:8285
+http://50.7.96.210:8285 
 
 #EXTINF:0, TRANS7
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_all/playlist.m3u8
