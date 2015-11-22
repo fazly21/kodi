@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="astroarena.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/801_300.png" group-title="TVMALAYSIA",ASTRO ARENA
+http://bit.ly/astro-ARENA
+
+#EXTINF:-1  tvg-logo="astroprima.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/105_300.png" group-title="TVMALAYSIA",ASTRO PRIMA
+http://bit.ly/astro-PRIMA
+
+#EXTINF:-1 tvg-logo="astrowarna.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/132_300.png" group-title="TVMALAYSIA",ASTRO WARNA
+http://bit.ly/astro-WARNA
+
+#EXTINF:-1 tvg-logo="astroria.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/104_300.png" group-title="TVMALAYSIA",ASTRO Ria
+http://bit.ly/astro-RIA
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448260090&myTokenPrefixhash=584zTWsjywYLSdAk1NWw7wrP1OnOMoEk-iOzhMZzccQ=
 
