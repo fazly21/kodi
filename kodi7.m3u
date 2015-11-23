@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:0, [COLOR yellow][B]fzly7[/B][/COLOR]
+http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+#EXTINF:0, [COLOR yellow][B]UPDATED : 24/11/2015[/B][/COLOR]
+http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:-1, Nickelodeon SD
+http://202.75.23.36:1400/live/ch43/03.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448260090&myTokenPrefixhash=584zTWsjywYLSdAk1NWw7wrP1OnOMoEk-iOzhMZzccQ=
